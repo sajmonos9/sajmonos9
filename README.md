@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Šimon Lukeš</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajmonos9&label=Profile%20views&color=0e75b6&style=flat" alt="sajmonos9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajmonos9" alt="sajmonos9" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
